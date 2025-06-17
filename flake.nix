@@ -271,7 +271,7 @@
           blender_4_2
           blender_4_3
           blender_4_4;
-        default = blender_4_4;
+        default = blender_3_6;
       };
 
       checks.x86_64-linux = {
